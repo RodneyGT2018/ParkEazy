@@ -1,5 +1,5 @@
 # ParkEazy
-##### Project 2 - Group 6
+##### Project 2 - Group 9
 
 An AirBnB-esque web application... but for parking, where users search for available parking permits/spaces that other's have posted.  It is web application using a MySQL database to store the user data, Sequelize as the ORM, Node & Express to run the server and app, and Handlebars as the templating engine.
 
@@ -19,10 +19,6 @@ View Available Listings:
 
 <img width="1437" alt="s3 - search" src="https://user-images.githubusercontent.com/38221513/50046172-03ff2980-006d-11e9-8268-6e0af68d643f.png">
 
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.  See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -70,25 +66,6 @@ nyc                     (npm install --save-dev nyc)
 prettier                (npm install --save-dev prettier)
 ```
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Running 'ParkEazy'
 
